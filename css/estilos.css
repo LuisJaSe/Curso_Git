@@ -9,3 +9,8 @@ body
 h1{
     color: red;
 }
+
+h2{
+    color: blueviolet;
+    background-color: beige;
+}

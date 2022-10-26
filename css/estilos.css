@@ -2,10 +2,15 @@ body
 {
     color: deeppink;
     background-color: aqua;
-    text-align: left;
+    text-align: right;
     font-family: "Arial";
 }
 
 h1{
     color: red;
+}
+
+h2{
+    color: blueviolet;
+    background-color: beige;
 }
